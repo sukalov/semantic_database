@@ -2,7 +2,7 @@
 PY codes combining information from semantic tables into a unite XML
 
 
-##current problems with fulldic:
+## current problems with fulldic:
 1. table lacks lexemes in many rows
 2. same lexemes are written many times (as many, as the amount of microframes for the lexeme)
 
