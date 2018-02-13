@@ -28,13 +28,24 @@ all_strings = f.read()
 f.close()
 strings = all_strings.split ("\n")
 
-fieldic = {} #dictionary. key - field, val - list consisting of LISTS. each list is a string with the field
-for string in strings:
+lexdic - {}
+
+for st in strings:
     param = string.split("\t")
-    if param[6] not in fieldic:
-        fieldic[param[6]] = [param]
+    if param[0] not in fieldic:
+        lexdic[param[0]] = [param]
     else:
-        fieldic[param[6]].append(param)
+        lexdic[param[0]].append(param)
+
+fieldic = {} #dictionary. key - field, val - list consisting of LISTS. each list is a string with the field
+for elem in lexdic:
+    dic = {}
+    for string in lexdic[elem]:
+        if string[6] not in fieldic:
+            dic[string[6]] = [param]
+        else:
+            dic[string[6]].append(param)
+    fieldic[]
 
 fulldic = {} #key - field, val - dictionary with frames. 
 for _field_ in fieldic:
