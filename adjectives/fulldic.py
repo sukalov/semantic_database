@@ -124,4 +124,4 @@ for _field_ in fulldic:
                # example = ET.SubElement (mframe, "example", attrib = {"trans":trans.text})
                # example.text = el[4]
 
-save_xml('xml_db_full_v2.xml', root)
+save_xml('adjectives_test.xml', root)
