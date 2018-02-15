@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dcd890b-55a8-42cc-b04f-d44738b1d735" name="Default" comment="">
+    <list default="true" id="9dcd890b-55a8-42cc-b04f-d44738b1d735" name="Default" comment="adjectives folder">
+      <change beforePath="$PROJECT_DIR$/.idea/semantic_database.iml" afterPath="$PROJECT_DIR$/.idea/semantic_database.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/_mac/git.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_mac/laf.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codestyles/Default.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/db_full_v2.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/debugger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fulldic.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/markdown.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.lnf.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/baseRefactoring.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/databaseSettings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ide.general.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin_ui.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vcs.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,20 +28,10 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="30">
-                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="databaseSettings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/databaseSettings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -101,6 +87,11 @@
               <item name="semantic_database" type="b2602c69:ProjectViewProjectNode" />
               <item name="semantic_database" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="semantic_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semantic_database" type="462c0819:PsiDirectoryNode" />
+              <item name="adjectives" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -111,6 +102,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518568615990</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adjectives folder">
+      <created>1518695606971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518695606971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -258,7 +257,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="problem of microframes solved. from now on the resulting xml quality depends just on the original dataframe" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem of microframes solved. from now on the resulting xml quality depends just on the original dataframe" />
+    <MESSAGE value="adjectives folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjectives folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -411,7 +411,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
-            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
