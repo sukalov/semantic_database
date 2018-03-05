@@ -1,0 +1,2164 @@
+<?xml version="1.0" ?>
+<field>
+	глаголы падения
+	<frame meaning="d">
+		<lexeme lang="индонезийский">rebah</lexeme>
+		<lexeme lang="индонезийский">runtuh</lexeme>
+		<lexeme lang="индонезийский">runtuh</lexeme>
+		<lexeme lang="индонезийский">roboh</lexeme>
+		<lexeme lang="индонезийский">tumbang</lexeme>
+		<lexeme lang="японский">
+			伏す фусу
+			<mframe>
+				<example trans="не находить себе пристанища (букв. споткнётся о небо и упадёт на землю, о преступнике);">天にうずくまり地に伏す</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">土崩瓦解 дохо:гакаи</lexeme>
+		<lexeme lang="японский">
+			墜落 цуйраку
+			<mframe>
+				<example trans="упасть за борт;">船から海中に墜落する</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			墜落 цуйраку
+			<mframe>
+				<example trans="разбиться [насмерть] при падении.">墜落して死ぬ</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			崩れる кудзурэру
+			<mframe>
+				<example trans="стена обвалилась (рухнула);">壁が崩れて来た</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			崩れる кудзурэру
+			<mframe>
+				<example trans="сложенные [в стопку] книги рассыпались;">積んだ本が崩れた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			崩れる кудзурэру
+			<mframe>
+				<example trans="рухнуть, упасть (о кресло и т. п.);">崩れる様にすわる</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">差す сасу</lexeme>
+		<lexeme lang="японский">泣き伏す накифусу</lexeme>
+		<lexeme lang="японский">潰れる цубурэру</lexeme>
+		<lexeme lang="японский">焼け落ちる якэотиру</lexeme>
+		<lexeme lang="японский">瓦解 гакаи</lexeme>
+		<lexeme lang="японский">破れる ябурэру</lexeme>
+		<lexeme lang="японский">突っ伏す цуппусу</lexeme>
+		<lexeme lang="японский">転げ落ちる корогэотиру</lexeme>
+		<lexeme lang="японский">重なり合う касанариау</lexeme>
+		<lexeme lang="японский">陥る отииру</lexeme>
+		<lexeme lang="японский">陥入 кан'ню:</lexeme>
+		<lexeme lang="японский">陥落 кан'раку</lexeme>
+		<lexeme lang="японский">頓仆 дон'боку</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: из контейнера
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Птенец выпал из гнезда.">Дидьпийыс позсьыс усис.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: назад (опрокинуться)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">l'asas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: сверху (мячи и кирпичи)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Картофелина покатилась по столу и упала на пол.">'Картопельыс пызан кузяыс  тыралiс и усис пос вылас.'</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: набок (машина)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="На нарте для 'Бурана' (т. е. на нарте, прикрепленной к снегоходу марки 'Буран' или иной марки) человек сидел, небольшая горка там, нарта туда поехала, по горке, нарта перевернулась, и человек упал.">'Буран дадден морт пукалiс, чойтор сэтче, даддьыс бура сэтче мунic, чой выытiыс, даддьыс пöрис,  и мортыс усис. '</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="Очень сильные волны, вот наша лодка и опрокинулась.">Зэй валъя, да пыжнум пöри.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="Почему смайлики в алфавитном письме опрокинуты набок?">アルファベット圏の顔文字はどうして横に倒れているのですか？</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="упасть на бок">横に倒れる</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="упасть вместе (о борцах)">同体に落ちる</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		рефлексивное движение
+		<lexeme lang="бесермянский диалект удмуртского языка">kwaškanə</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: в сторону (дерево, столб)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="От сильного ветра дерево упало.">Топыд тööсьыс нияыс пöрис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="Я локтем задел бутылку, и бутылка опрокинулась (при этом осталась на столе, где и была).">'Ме гырддянам вöрзедi сулиясэ, и сулияыс пöрис.'</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="После дождя трава полегла.">Зэрыс усем бöрвыытi туруныс  пöрис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="От сильного ветра дерево упало.">Топыд тööсьыс нияыс усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">roboh</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="Дерево было готово упасть">その木は今にも倒れそうだった</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="Дерево было готово упасть в любое мгновение">その木は今にも倒れそうだった</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			横っ倒し ёкоттаоси
+			<mframe>
+				<example trans="дерево, поваленное грозой.">嵐に横倒しになった木</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			横倒し ёкодаоси
+			<mframe>
+				<example trans="дерево, поваленное грозой.">嵐に横倒しになった木</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">umgevalgert vern</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		падение сверху (мячи и кирпичи)
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="не лезь на крышу, можешь упасть">屋根に乗るな、落ちると危ないから</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Листья падали с деревьев">木から枯葉が落ちた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Листья падали на землю">木の葉が地上に落ちた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Листья тихо падали на землю">音もなく葉が地面に落ちていった</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Когда падаешь с лестницы, внизу оказываешься очень быстро.">階段からおちると階下にすばやく下りてしまう</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Я крепко держался за верёвку, чтобы не упасть">落ちないようにロープを握りしめた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Надеюсь, ты свалишься в ров.">溝に落ちると希望しています</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Я слышал, как что-то упало.">何かが地面に落ちる音が聞こえた。</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Под столом печенье валяется.">クッキーがテーブルの下に落ちている。</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Так тихо, что слышно, как тголка упадет.">針の落ちる音も聞こえるほどの静けさだ</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Она ушибла ногу, упав со своего велосипеда.">彼女は自転車から落ちた時に足を痛めた。</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aropfaln
+			<mframe>
+				<example trans="Откуда ты свалился?">funvanen bistu aropgefaln?</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aropfaln
+			<mframe>
+				<example trans="Свалиться с крыши">aropfaln funem dakh</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aropfaln
+			<mframe>
+				<example trans="Он свалился с лестницы">er iz aropgefaln fun di trep</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aropvalgern zikh
+			<mframe>
+				<example trans="Упасть с крыши">aropvalgern zikh funem dakh</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения:под слой (под снег)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">pəkəl'c'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">sejəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">l'ewas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		в слой
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое на твердое
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: части (колесо, кольцо)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="У меня кольцо соскочило с пальца.">Чунькытшэ усис чуньсюм.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="С дерева упала ветка.">Пусьыс уси чальйыс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Занавеска (букв.: оконная тряпка) оторвалась и упала.">öкеньча дöраыс орис и усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="У ребенка с руки упала варежка.">Челядьлэн кöпысьыс усема кисьыс.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: поскользнуться 
+		<lexeme lang="японский">
+			転ぶ коробу
+			<mframe>
+				<example trans="Смотрите не поскользнитесь на льду.">氷の上で滑って転ぶなよ。</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">onshtoysn zikh</lexeme>
+		<lexeme lang="идиш">fartshepen zikh</lexeme>
+		<lexeme lang="идиш">geyn un faln</lexeme>
+		<lexeme lang="идиш">aropfaln</lexeme>
+		<lexeme lang="идиш">aropvalgern zikh</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: совокупности (ягоды, крошки, шишки)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">pidərəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqməs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">lančaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">n'əlkaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xamčadas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="У бабушки зубы выпали.">Бабелэн пиньясыс киссисныс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="Шерсть очень сыпется.">Гöныс зэй киссе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="Спелая морошка падает на землю.">Кисьмема мырпом му вылас    киссе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Спелая морошка падает на землю.">Кисьмема мырпом му вылас    усе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="У дедушки волосы выпали.">Дедыслэн юрсиыс усема.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">jatuh</lexeme>
+		<lexeme lang="индонезийский">gugur</lexeme>
+		<lexeme lang="индонезийский">tanggal</lexeme>
+		<lexeme lang="индонезийский">rontok, merontok</lexeme>
+		<lexeme lang="индонезийский">rontok, merontok</lexeme>
+		<lexeme lang="японский">揺落 ё:раку</lexeme>
+		<lexeme lang="идиш">opfaln</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: под слой (под снег)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			вöйны
+			<mframe>
+				<example trans="Я по колено провалился в сугроб.">Ме пидесэде вöйи теликас.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			вöйны
+			<mframe>
+				<example trans="На 'Буране' (марка снегохода) нельзя ездить по тонкому льду, можешь провалиться.">'Буранэн оз позь войлыны вöсньыд йи кузя, верман вöйны.'</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения
+		<lexeme lang="индонезийский">jatuh</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="обрушиться под собственной тяжестью">その自体の重みで倒れる</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="этот дом стоит крепко (=не упадет)">あの家は中々倒れない</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="дом, который вот-вот рухнет;">今にも倒れそうな家</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			壊れる коварэру
+			<mframe>
+				<example trans="Это здание в любой момент может обрушиться.">その建物はいつ壊れるかもしれない</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			転ぶ коробу
+			<mframe>
+				<example trans="Заметив, что девушка падает, я невольно подбежал к ней.">女の子が転ぶのを見て、私は思わず駆け寄った</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			転ぶ коробу
+			<mframe>
+				<example trans="Я старался, чтобы не упасть">転ばないように十分気をつけた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			転ぶ коробу
+			<mframe>
+				<example trans="посл. не зная броду, не суйся в воду (букв. надо [взять] палку раньше, чем упадёшь).">転ばぬ先の杖</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynfaln
+			<mframe>
+				<example trans="дом рушится">dos hoyz falt ayn</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynfaln
+			<mframe>
+				<example trans="стена может вот-вот обрушиться">di vand kon ot-ot aynfaln</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynvalgern zikh
+			<mframe>
+				<example trans="дом обрушился">dos hoyz hot zikh ayngevalgert</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynvalgern zikh
+			<mframe>
+				<example trans="стена может вот-вот обрушиться">di vand kon ot-ot aynvalgern zikh</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое в жидкость (камень в воду)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">čalkadas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			бузгысьны
+			<mframe>
+				<example trans="Камень сверху бросил, а в воду он бултыхнулся.">Изсэ выысянь шыбитiс, а ваа бузгысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			бузгысьны
+			<mframe>
+				<example trans="Олень с крутого берега в воду бултыхнулся.">Кöр крежсяньыс ваа бузгысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: поскользнуться
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Поскользнулся и свалился с ног.">Вольсйис и кок йылысь усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое на мягкое (книга на диван, камень в грязь)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			шлячкысьны
+			<mframe>
+				<example trans="Нога зацепилась, я в грязь шлепнулся, весь испачкался.">Кокэ тшукис, ме нястиас шлячкыси, тавнам маратчи.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое на мягкое (плюшевый мишка на диван)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: совокупности
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kərdəne</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: назад
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое на твердое
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: вперед
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		в слой (упасть в снег и в нем остаться)
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Не подходи слишком близко к пруду, а то свалишься.">落ちるといけないから、あまり池に近づくな</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		рефлексивное движение (про мост, берег)
+		<lexeme lang="индонезийский">gugur</lexeme>
+		<lexeme lang="японский">
+			壊れる коварэру
+			<mframe>
+				<example trans="Инженеры взорвали мост, так как он мог обрушиться в любой момент.">壊れかかっていたので、技師達はその橋を爆破した</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: прикрепленное (человек сорвался со скалы)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Зеркало упало со стены.">Визьлысян усема стенсьыс.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		кн.
+		<lexeme lang="японский">墜死 цуиси</lexeme>
+	</frame>
+	<frame meaning="d">
+		прикрепленное
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: из контейнера
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		с кронштейна
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kišʼkanə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+		<lexeme lang="идиш">opraysn zikh</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое на твердое (знак со столба на землю)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			брингысьны
+			<mframe>
+				<example trans="Длинную железку на плече нес, бросил на землю, она сильно брякнулась.">Кузь кöрт пельпом вылас вайис, шыбитiс му вылас, ыжда и брингысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			зильгысьны
+			<mframe>
+				<example trans="Ключи сорвались из рук и брякнулись на пол.">Восьтанъясыс мынiсныс кисьыс   да зильгысисныс поскас.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			гримгысьны
+			<mframe>
+				<example trans="Пустой котел грохнулся.">Тыртэм пöртыс гримгысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			гримгысьны
+			<mframe>
+				<example trans="Ребенок упал, сильно грохнулся.">Челядьыс уси, зэй гримгысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			шлячкысьны
+			<mframe>
+				<example trans="Петя шлепнулся на пол, ушиб руку.">Петя шлячкысис пос вылэ, дойдiс кисэ.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: жидкость: капли
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">tesas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			виёоны
+			<mframe>
+				<example trans="После дождя с крыши капает вода.">Зэр бöрын крышасьыс виялэ ва.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			виёоны
+			<mframe>
+				<example trans="Смола с ели капает от жары.">Сирыс коз пусьыс виялэ жарсьыс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">
+			merintik-rintik
+			<mframe>
+				<example trans="дождь капает">hujan merintik-rintik</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">menitik</lexeme>
+		<lexeme lang="индонезийский">
+			bertetes-tetes
+			<mframe>
+				<example trans="слезы капают">air mata bertetes-tetes</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">menetes</lexeme>
+		<lexeme lang="японский">滴る ситатару</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">
+			kapen
+			<mframe>
+				<example trans="С крыш капает">s'hot gekapet fun di dekher</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			trifn
+			<mframe>
+				<example trans="Слезы капали из ее глаз">trern hobn getrift fun ire oygn</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			kapen
+			<mframe>
+				<example trans="Слезы капали из ее глаз">trern hobn gekapet fun ire oygn</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: в сторону
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kəmašʼkənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: вперёд (человек)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">
+			sulmas'
+			<mframe>
+				<example trans="человек шёл, шёл, споткнулся и наперёд упал">n’eneč m’iŋa, miŋa, tapxajq i n’ern’a sulmiq </example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">
+			t'indas'
+			<mframe>
+				<example trans="Он подошёл, сзади толкнул меня, я упал">pida maxan’in’axad s’im’iq (меня) čirčid’e, jan čitdiw</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: осадки
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xurnas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xawnas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqməs'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="На улице падает снег.">Ыллаын усе лым.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Сегодня целый день падает мокрый снег.">Тон лунбыд шлячаыс усе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Ой, гремело, и град прошел, очень крупный град.">Ой, гымалiс, и град уси, зэй гырысь град.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Дождь идет.">Зэрыс усе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			зэрны
+			<mframe>
+				<example trans="На улице идет дождь.">Ыллаын зэрэ.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="Дождь льет.">Зэрыс киссе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">turun</lexeme>
+		<lexeme lang="японский">
+			降る фуру
+			<mframe>
+				<example trans="Снег падает быстро">雪がひっきりなしに降っている</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			降る фуру
+			<mframe>
+				<example trans="Идет снег">雪が降る</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			降る фуру
+			<mframe>
+				<example trans="Дождь все еще идет?">まだ雨降ってる？</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">oysfaln</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		слой
+		<lexeme lang="идиш">
+			aynvalgern zikh
+			<mframe>
+				<example trans="Потолок обвалился">di stelye hot zikh ayngevalgert</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynfaln
+			<mframe>
+				<example trans="Потолок обвалился">di stelye is ayngefaln</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">opfaln </lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: жидкость: поток
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xamdumbas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">wabtomč</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xurnas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xawnas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="С потолка вода льется.">Пöтöлöксьыс ваыс киссе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			бузгысьны
+			<mframe>
+				<example trans="Я несла таз с водой, нога у меня подвернулась, и вода из таза с шумом разлилась на пол.">'Ме нуи ва таз, коке меям кытшыльтчис, и ва тазйысь бузгысис поскас.'</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: сыпучие
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xamdumbas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">pidərəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">wabtomč</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="У нас мешок с мукой весь дырявый, мука сыпется и сыпется.">'Пызь мешэкнум тавыс рузья, пызьнум тай киссе и киссе.'</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			бузгысьны
+			<mframe>
+				<example trans="Завязка мешка оборвалась, и крупа с шумом высыпалась на стол.">'Мешэк кöлыс орис, и панооыс бузгысис пызан вылас.'</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kišʼkanə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+		<lexeme lang="идиш">shitn zikh, opshitn zikh, opfaln</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		выпадение из контейнера
+		<lexeme lang="японский">
+			抜ける нукэру
+			<mframe>
+				<example trans="гвоздь выпал (выскочил);">釘が一本抜けている</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kərganə</lexeme>
+		<lexeme lang="идиш">aroysfaln</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: в сторону
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xəwəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		под слой
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое в жидкость
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">шлячкысьны</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: волосы/зубы
+		<lexeme lang="индонезийский">jatuh</lexeme>
+		<lexeme lang="индонезийский">gugur</lexeme>
+		<lexeme lang="индонезийский">tanggal</lexeme>
+		<lexeme lang="индонезийский">rontok, merontok</lexeme>
+		<lexeme lang="японский">抜け落ちる нукэотиру</lexeme>
+		<lexeme lang="японский">
+			脱ける нукэру
+			<mframe>
+				<example trans="волосы выпадают;">毛が脱ける</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">oysfaln</lexeme>
+		<lexeme lang="идиш">aroysfaln</lexeme>
+		<lexeme lang="идиш">oyskrikhn</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: вперед (человек)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="На живот упал (о человеке).">Кынэм вылас усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">つんおめる цун'омэру</lexeme>
+		<lexeme lang="японский">のめる номэру</lexeme>
+		<lexeme lang="японский">平伏 хэифуку</lexeme>
+		<lexeme lang="японский">平伏す хирэфусу</lexeme>
+		<lexeme lang="идиш">
+			faln
+			<mframe>
+				<example trans="падать с ног">faln fun di fis</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			faln
+			<mframe>
+				<example trans="Раненый упал и снова поднялся">der farvundert iz alts gefaln un vider opgeshtanen</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			faln
+			<mframe>
+				<example trans="падать на колени">faln af di kni</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		части (колесо, кольцо)
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: поскользнуться
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">təpxalc'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xɛŋgədəs'</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: набок
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое на мягкое
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">araynplyukhen zikh</lexeme>
+		<lexeme lang="идиш">araynplyukhen zikh</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: назад (опрокинуться)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Мужчина упал на спину.">Мужык усис мушку вылас.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">尻餅 сиримоти</lexeme>
+		<lexeme lang="японский">
+			引っくり返る хиккурикаэру
+			<mframe>
+				<example trans="лодка перевернулась;">舟が引っくり返った</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">覆る куцугаэру</lexeme>
+		<lexeme lang="идиш">gebn a pral (arop)</lexeme>
+		<lexeme lang="идиш">
+			umfaln
+			<mframe>
+				<example trans="Раненый упал">der farvunderter is umgefaln</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">umgevalgert vern</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое на мягкое
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		падение сверху
+		<lexeme lang="индонезийский">jatuh</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: прикрепленное (человек сорвался со скалы)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xɛŋgədəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: набок (машина)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">wabtomč</lexeme>
+	</frame>
+	<frame meaning="d">
+		под слой (упасть сквозь провалившийся пол)
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: части (колесо, кольцо)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">n'iklas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">lančaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">n'əlkaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqməs'</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: рефлексивное движение (про мост, берег)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">labaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">lančaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqmas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: волосы/зубы/хвосты
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqməs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">lančaras'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="У ребенка выпал молочный зуб.">Челядьыслэн усис том пиньыс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Весной у оленей опадают рога.">Тулыс кöръяслэн сюрныс усялэныс.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: с кронштейна
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: рефлексивное движение (про мост, берег)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			буждыны
+			<mframe>
+				<example trans="Край обрыва обвалился.">Креж дорыс буждiс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			буждыны
+			<mframe>
+				<example trans="Маленький островок в половодье (букв.: во время большой воды) весь осыпается.">Дёля дiыс ыджыд ва дырйи ставнас буждэ.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			буждыны
+			<mframe>
+				<example trans="В воду обрушились камни с края обрыва.">Ваэ буждiсныс креждор изъяс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			буждыны
+			<mframe>
+				<example trans="Снега было очень много, и он осы'пался (например, когда намело много снега).">Лымйыс вöлi зэй уна да буждэ.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Мостки (букв.: доски человека) сгнили и упали в воду.">Мортыслэн пööясыс сисьмисныс и усисныс ваа.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Дом загорелся и вскоре рухнул.">Керкаыс öзйис и öдде усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Вода подмыла землю, и пласт земли упал в реку.">Ваыс мыськис мусэ, и му палах уси юас.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое в жидкость
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: сверху (мячи и кирпичи)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: с кронштейна
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Наш котел для мяса упал с крючка, надо поднять.">Яй пöртнум усема крючоксьыс, колэ кыпэдны.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="С крючка сорвалась рыба.">Кручоксьыс уси чериыс.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		прикрепленное (человек сорвался со скалы)
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое на твердое (сумка на асфальт)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			шлячкысьны
+			<mframe>
+				<example trans="Мокрая тряпка на пол шлепнулась.">Ва бонъе пос вылас шлячкысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		части
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+</field>
+<?xml version="1.0" ?>
+<field>
+	глаголы падения
+	<frame meaning="d">
+		<lexeme lang="индонезийский">rebah</lexeme>
+		<lexeme lang="индонезийский">runtuh</lexeme>
+		<lexeme lang="индонезийский">runtuh</lexeme>
+		<lexeme lang="индонезийский">roboh</lexeme>
+		<lexeme lang="индонезийский">tumbang</lexeme>
+		<lexeme lang="японский">
+			伏す фусу
+			<mframe>
+				<example trans="не находить себе пристанища (букв. споткнётся о небо и упадёт на землю, о преступнике);">天にうずくまり地に伏す</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">土崩瓦解 дохо:гакаи</lexeme>
+		<lexeme lang="японский">
+			墜落 цуйраку
+			<mframe>
+				<example trans="упасть за борт;">船から海中に墜落する</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			墜落 цуйраку
+			<mframe>
+				<example trans="разбиться [насмерть] при падении.">墜落して死ぬ</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			崩れる кудзурэру
+			<mframe>
+				<example trans="стена обвалилась (рухнула);">壁が崩れて来た</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			崩れる кудзурэру
+			<mframe>
+				<example trans="сложенные [в стопку] книги рассыпались;">積んだ本が崩れた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			崩れる кудзурэру
+			<mframe>
+				<example trans="рухнуть, упасть (о кресло и т. п.);">崩れる様にすわる</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">差す сасу</lexeme>
+		<lexeme lang="японский">泣き伏す накифусу</lexeme>
+		<lexeme lang="японский">潰れる цубурэру</lexeme>
+		<lexeme lang="японский">焼け落ちる якэотиру</lexeme>
+		<lexeme lang="японский">瓦解 гакаи</lexeme>
+		<lexeme lang="японский">破れる ябурэру</lexeme>
+		<lexeme lang="японский">突っ伏す цуппусу</lexeme>
+		<lexeme lang="японский">転げ落ちる корогэотиру</lexeme>
+		<lexeme lang="японский">重なり合う касанариау</lexeme>
+		<lexeme lang="японский">陥る отииру</lexeme>
+		<lexeme lang="японский">陥入 кан'ню:</lexeme>
+		<lexeme lang="японский">陥落 кан'раку</lexeme>
+		<lexeme lang="японский">頓仆 дон'боку</lexeme>
+	</frame>
+	<frame meaning="d">
+		под слой
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: сверху (мячи и кирпичи)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: жидкость: поток
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xamdumbas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">wabtomč</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xurnas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xawnas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="С потолка вода льется.">Пöтöлöксьыс ваыс киссе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			бузгысьны
+			<mframe>
+				<example trans="Я несла таз с водой, нога у меня подвернулась, и вода из таза с шумом разлилась на пол.">'Ме нуи ва таз, коке меям кытшыльтчис, и ва тазйысь бузгысис поскас.'</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: сыпучие
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xamdumbas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">pidərəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">wabtomč</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="У нас мешок с мукой весь дырявый, мука сыпется и сыпется.">'Пызь мешэкнум тавыс рузья, пызьнум тай киссе и киссе.'</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			бузгысьны
+			<mframe>
+				<example trans="Завязка мешка оборвалась, и крупа с шумом высыпалась на стол.">'Мешэк кöлыс орис, и панооыс бузгысис пызан вылас.'</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kišʼkanə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+		<lexeme lang="идиш">shitn zikh, opshitn zikh, opfaln</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: набок
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: осадки
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xurnas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xawnas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqməs'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="На улице падает снег.">Ыллаын усе лым.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Сегодня целый день падает мокрый снег.">Тон лунбыд шлячаыс усе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Ой, гремело, и град прошел, очень крупный град.">Ой, гымалiс, и град уси, зэй гырысь град.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Дождь идет.">Зэрыс усе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			зэрны
+			<mframe>
+				<example trans="На улице идет дождь.">Ыллаын зэрэ.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="Дождь льет.">Зэрыс киссе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">turun</lexeme>
+		<lexeme lang="японский">
+			降る фуру
+			<mframe>
+				<example trans="Снег падает быстро">雪がひっきりなしに降っている</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			降る фуру
+			<mframe>
+				<example trans="Идет снег">雪が降る</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			降る фуру
+			<mframe>
+				<example trans="Дождь все еще идет?">まだ雨降ってる？</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">oysfaln</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: в сторону (дерево, столб)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="От сильного ветра дерево упало.">Топыд тööсьыс нияыс пöрис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="Я локтем задел бутылку, и бутылка опрокинулась (при этом осталась на столе, где и была).">'Ме гырддянам вöрзедi сулиясэ, и сулияыс пöрис.'</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="После дождя трава полегла.">Зэрыс усем бöрвыытi туруныс  пöрис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="От сильного ветра дерево упало.">Топыд тööсьыс нияыс усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">roboh</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="Дерево было готово упасть">その木は今にも倒れそうだった</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="Дерево было готово упасть в любое мгновение">その木は今にも倒れそうだった</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			横っ倒し ёкоттаоси
+			<mframe>
+				<example trans="дерево, поваленное грозой.">嵐に横倒しになった木</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			横倒し ёкодаоси
+			<mframe>
+				<example trans="дерево, поваленное грозой.">嵐に横倒しになった木</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">umgevalgert vern</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		рефлексивное движение
+		<lexeme lang="бесермянский диалект удмуртского языка">kwaškanə</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое в жидкость (камень в воду)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">čalkadas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			бузгысьны
+			<mframe>
+				<example trans="Камень сверху бросил, а в воду он бултыхнулся.">Изсэ выысянь шыбитiс, а ваа бузгысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			бузгысьны
+			<mframe>
+				<example trans="Олень с крутого берега в воду бултыхнулся.">Кöр крежсяньыс ваа бузгысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: с кронштейна
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Наш котел для мяса упал с крючка, надо поднять.">Яй пöртнум усема крючоксьыс, колэ кыпэдны.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="С крючка сорвалась рыба.">Кручоксьыс уси чериыс.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: поскользнуться
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">təpxalc'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xɛŋgədəs'</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: прикрепленное (человек сорвался со скалы)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xɛŋgədəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: с кронштейна
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое на твердое (знак со столба на землю)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			брингысьны
+			<mframe>
+				<example trans="Длинную железку на плече нес, бросил на землю, она сильно брякнулась.">Кузь кöрт пельпом вылас вайис, шыбитiс му вылас, ыжда и брингысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			зильгысьны
+			<mframe>
+				<example trans="Ключи сорвались из рук и брякнулись на пол.">Восьтанъясыс мынiсныс кисьыс   да зильгысисныс поскас.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			гримгысьны
+			<mframe>
+				<example trans="Пустой котел грохнулся.">Тыртэм пöртыс гримгысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			гримгысьны
+			<mframe>
+				<example trans="Ребенок упал, сильно грохнулся.">Челядьыс уси, зэй гримгысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			шлячкысьны
+			<mframe>
+				<example trans="Петя шлепнулся на пол, ушиб руку.">Петя шлячкысис пос вылэ, дойдiс кисэ.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: части (колесо, кольцо)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">n'iklas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">lančaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">n'əlkaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqməs'</lexeme>
+	</frame>
+	<frame meaning="d">
+		с кронштейна
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kišʼkanə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+		<lexeme lang="идиш">opraysn zikh</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: набок (машина)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">wabtomč</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: назад
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое на твердое
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое на мягкое (плюшевый мишка на диван)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое на мягкое (книга на диван, камень в грязь)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			шлячкысьны
+			<mframe>
+				<example trans="Нога зацепилась, я в грязь шлепнулся, весь испачкался.">Кокэ тшукис, ме нястиас шлячкыси, тавнам маратчи.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		прикрепленное
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: из контейнера
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Птенец выпал из гнезда.">Дидьпийыс позсьыс усис.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: под слой (под снег)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			вöйны
+			<mframe>
+				<example trans="Я по колено провалился в сугроб.">Ме пидесэде вöйи теликас.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			вöйны
+			<mframe>
+				<example trans="На 'Буране' (марка снегохода) нельзя ездить по тонкому льду, можешь провалиться.">'Буранэн оз позь войлыны вöсньыд йи кузя, верман вöйны.'</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: вперед
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: вперёд (человек)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">
+			sulmas'
+			<mframe>
+				<example trans="человек шёл, шёл, споткнулся и наперёд упал">n’eneč m’iŋa, miŋa, tapxajq i n’ern’a sulmiq </example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">
+			t'indas'
+			<mframe>
+				<example trans="Он подошёл, сзади толкнул меня, я упал">pida maxan’in’axad s’im’iq (меня) čirčid’e, jan čitdiw</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		в слой (упасть в снег и в нем остаться)
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Не подходи слишком близко к пруду, а то свалишься.">落ちるといけないから、あまり池に近づくな</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: сверху (мячи и кирпичи)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Картофелина покатилась по столу и упала на пол.">'Картопельыс пызан кузяыс  тыралiс и усис пос вылас.'</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		рефлексивное движение (про мост, берег)
+		<lexeme lang="индонезийский">gugur</lexeme>
+		<lexeme lang="японский">
+			壊れる коварэру
+			<mframe>
+				<example trans="Инженеры взорвали мост, так как он мог обрушиться в любой момент.">壊れかかっていたので、技師達はその橋を爆破した</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		прикрепленное (человек сорвался со скалы)
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		части
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		в слой
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ležʼikənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое на твердое
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: поскользнуться 
+		<lexeme lang="японский">
+			転ぶ коробу
+			<mframe>
+				<example trans="Смотрите не поскользнитесь на льду.">氷の上で滑って転ぶなよ。</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">onshtoysn zikh</lexeme>
+		<lexeme lang="идиш">fartshepen zikh</lexeme>
+		<lexeme lang="идиш">geyn un faln</lexeme>
+		<lexeme lang="идиш">aropfaln</lexeme>
+		<lexeme lang="идиш">aropvalgern zikh</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: набок (машина)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="На нарте для 'Бурана' (т. е. на нарте, прикрепленной к снегоходу марки 'Буран' или иной марки) человек сидел, небольшая горка там, нарта туда поехала, по горке, нарта перевернулась, и человек упал.">'Буран дадден морт пукалiс, чойтор сэтче, даддьыс бура сэтче мунic, чой выытiыс, даддьыс пöрис,  и мортыс усис. '</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			пöрны
+			<mframe>
+				<example trans="Очень сильные волны, вот наша лодка и опрокинулась.">Зэй валъя, да пыжнум пöри.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="Почему смайлики в алфавитном письме опрокинуты набок?">アルファベット圏の顔文字はどうして横に倒れているのですか？</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="упасть на бок">横に倒れる</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="упасть вместе (о борцах)">同体に落ちる</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое в жидкость
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения:под слой (под снег)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">pəkəl'c'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">sejəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">l'ewas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		выпадение из контейнера
+		<lexeme lang="японский">
+			抜ける нукэру
+			<mframe>
+				<example trans="гвоздь выпал (выскочил);">釘が一本抜けている</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kərganə</lexeme>
+		<lexeme lang="идиш">aroysfaln</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: твердое на мягкое
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">araynplyukhen zikh</lexeme>
+		<lexeme lang="идиш">araynplyukhen zikh</lexeme>
+	</frame>
+	<frame meaning="d">
+		слой
+		<lexeme lang="идиш">
+			aynvalgern zikh
+			<mframe>
+				<example trans="Потолок обвалился">di stelye hot zikh ayngevalgert</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynfaln
+			<mframe>
+				<example trans="Потолок обвалился">di stelye is ayngefaln</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">opfaln </lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: из контейнера
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: поскользнуться
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Поскользнулся и свалился с ног.">Вольсйис и кок йылысь усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		кн.
+		<lexeme lang="японский">墜死 цуиси</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: волосы/зубы/хвосты
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqməs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">lančaras'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="У ребенка выпал молочный зуб.">Челядьыслэн усис том пиньыс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Весной у оленей опадают рога.">Тулыс кöръяслэн сюрныс усялэныс.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: жидкость: капли
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">tesas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			виёоны
+			<mframe>
+				<example trans="После дождя с крыши капает вода.">Зэр бöрын крышасьыс виялэ ва.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			виёоны
+			<mframe>
+				<example trans="Смола с ели капает от жары.">Сирыс коз пусьыс виялэ жарсьыс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">
+			merintik-rintik
+			<mframe>
+				<example trans="дождь капает">hujan merintik-rintik</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">menitik</lexeme>
+		<lexeme lang="индонезийский">
+			bertetes-tetes
+			<mframe>
+				<example trans="слезы капают">air mata bertetes-tetes</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">menetes</lexeme>
+		<lexeme lang="японский">滴る ситатару</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">
+			kapen
+			<mframe>
+				<example trans="С крыш капает">s'hot gekapet fun di dekher</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			trifn
+			<mframe>
+				<example trans="Слезы капали из ее глаз">trern hobn getrift fun ire oygn</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			kapen
+			<mframe>
+				<example trans="Слезы капали из ее глаз">trern hobn gekapet fun ire oygn</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: вперед (человек)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="На живот упал (о человеке).">Кынэм вылас усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">つんおめる цун'омэру</lexeme>
+		<lexeme lang="японский">のめる номэру</lexeme>
+		<lexeme lang="японский">平伏 хэифуку</lexeme>
+		<lexeme lang="японский">平伏す хирэфусу</lexeme>
+		<lexeme lang="идиш">
+			faln
+			<mframe>
+				<example trans="падать с ног">faln fun di fis</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			faln
+			<mframe>
+				<example trans="Раненый упал и снова поднялся">der farvundert iz alts gefaln un vider opgeshtanen</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			faln
+			<mframe>
+				<example trans="падать на колени">faln af di kni</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: совокупности
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kərdəne</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: в сторону
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">kəmašʼkənə</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">pogranə</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое в жидкость
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">шлячкысьны</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: волосы/зубы
+		<lexeme lang="индонезийский">jatuh</lexeme>
+		<lexeme lang="индонезийский">gugur</lexeme>
+		<lexeme lang="индонезийский">tanggal</lexeme>
+		<lexeme lang="индонезийский">rontok, merontok</lexeme>
+		<lexeme lang="японский">抜け落ちる нукэотиру</lexeme>
+		<lexeme lang="японский">
+			脱ける нукэру
+			<mframe>
+				<example trans="волосы выпадают;">毛が脱ける</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+		<lexeme lang="идиш">oysfaln</lexeme>
+		<lexeme lang="идиш">aroysfaln</lexeme>
+		<lexeme lang="идиш">oyskrikhn</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: части (колесо, кольцо)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="У меня кольцо соскочило с пальца.">Чунькытшэ усис чуньсюм.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="С дерева упала ветка.">Пусьыс уси чальйыс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Занавеска (букв.: оконная тряпка) оторвалась и упала.">öкеньча дöраыс орис и усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="У ребенка с руки упала варежка.">Челядьлэн кöпысьыс усема кисьыс.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое на мягкое
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		под слой (упасть сквозь провалившийся пол)
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект и конечная точка: мягкое на твердое (сумка на асфальт)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">усьны</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			шлячкысьны
+			<mframe>
+				<example trans="Мокрая тряпка на пол шлепнулась.">Ва бонъе пос вылас шлячкысис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: рефлексивное движение (про мост, берег)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			буждыны
+			<mframe>
+				<example trans="Край обрыва обвалился.">Креж дорыс буждiс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			буждыны
+			<mframe>
+				<example trans="Маленький островок в половодье (букв.: во время большой воды) весь осыпается.">Дёля дiыс ыджыд ва дырйи ставнас буждэ.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			буждыны
+			<mframe>
+				<example trans="В воду обрушились камни с края обрыва.">Ваэ буждiсныс креждор изъяс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			буждыны
+			<mframe>
+				<example trans="Снега было очень много, и он осы'пался (например, когда намело много снега).">Лымйыс вöлi зэй уна да буждэ.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Мостки (букв.: доски человека) сгнили и упали в воду.">Мортыслэн пööясыс сисьмисныс и усисныс ваа.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Дом загорелся и вскоре рухнул.">Керкаыс öзйис и öдде усис.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Вода подмыла землю, и пласт земли упал в реку.">Ваыс мыськис мусэ, и му палах уси юас.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения
+		<lexeme lang="индонезийский">jatuh</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="обрушиться под собственной тяжестью">その自体の重みで倒れる</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="этот дом стоит крепко (=не упадет)">あの家は中々倒れない</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			倒れる таорэру
+			<mframe>
+				<example trans="дом, который вот-вот рухнет;">今にも倒れそうな家</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			壊れる коварэру
+			<mframe>
+				<example trans="Это здание в любой момент может обрушиться.">その建物はいつ壊れるかもしれない</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			転ぶ коробу
+			<mframe>
+				<example trans="Заметив, что девушка падает, я невольно подбежал к ней.">女の子が転ぶのを見て、私は思わず駆け寄った</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			転ぶ коробу
+			<mframe>
+				<example trans="Я старался, чтобы не упасть">転ばないように十分気をつけた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			転ぶ коробу
+			<mframe>
+				<example trans="посл. не зная броду, не суйся в воду (букв. надо [взять] палку раньше, чем упадёшь).">転ばぬ先の杖</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynfaln
+			<mframe>
+				<example trans="дом рушится">dos hoyz falt ayn</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynfaln
+			<mframe>
+				<example trans="стена может вот-вот обрушиться">di vand kon ot-ot aynfaln</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynvalgern zikh
+			<mframe>
+				<example trans="дом обрушился">dos hoyz hot zikh ayngevalgert</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aynvalgern zikh
+			<mframe>
+				<example trans="стена может вот-вот обрушиться">di vand kon ot-ot aynvalgern zikh</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		субъект: совокупности (ягоды, крошки, шишки)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">pidərəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqməs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">lančaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">n'əlkaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xamčadas'</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="У бабушки зубы выпали.">Бабелэн пиньясыс киссисныс.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="Шерсть очень сыпется.">Гöныс зэй киссе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			киссьыны
+			<mframe>
+				<example trans="Спелая морошка падает на землю.">Кисьмема мырпом му вылас    киссе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Спелая морошка падает на землю.">Кисьмема мырпом му вылас    усе.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="У дедушки волосы выпали.">Дедыслэн юрсиыс усема.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="индонезийский">jatuh</lexeme>
+		<lexeme lang="индонезийский">gugur</lexeme>
+		<lexeme lang="индонезийский">tanggal</lexeme>
+		<lexeme lang="индонезийский">rontok, merontok</lexeme>
+		<lexeme lang="индонезийский">rontok, merontok</lexeme>
+		<lexeme lang="японский">揺落 ё:раку</lexeme>
+		<lexeme lang="идиш">opfaln</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: в сторону
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xəwəs'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		падение сверху (мячи и кирпичи)
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="не лезь на крышу, можешь упасть">屋根に乗るな、落ちると危ないから</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Листья падали с деревьев">木から枯葉が落ちた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Листья падали на землю">木の葉が地上に落ちた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Листья тихо падали на землю">音もなく葉が地面に落ちていった</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Когда падаешь с лестницы, внизу оказываешься очень быстро.">階段からおちると階下にすばやく下りてしまう</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Я крепко держался за верёвку, чтобы не упасть">落ちないようにロープを握りしめた</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Надеюсь, ты свалишься в ров.">溝に落ちると希望しています</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Я слышал, как что-то упало.">何かが地面に落ちる音が聞こえた。</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Под столом печенье валяется.">クッキーがテーブルの下に落ちている。</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Так тихо, что слышно, как тголка упадет.">針の落ちる音も聞こえるほどの静けさだ</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">
+			落ちる отиру
+			<mframe>
+				<example trans="Она ушибла ногу, упав со своего велосипеда.">彼女は自転車から落ちた時に足を痛めた。</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aropfaln
+			<mframe>
+				<example trans="Откуда ты свалился?">funvanen bistu aropgefaln?</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aropfaln
+			<mframe>
+				<example trans="Свалиться с крыши">aropfaln funem dakh</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aropfaln
+			<mframe>
+				<example trans="Он свалился с лестницы">er iz aropgefaln fun di trep</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">
+			aropvalgern zikh
+			<mframe>
+				<example trans="Упасть с крыши">aropvalgern zikh funem dakh</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: рефлексивное движение (про мост, берег)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">labaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">lančaras'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">xaqmas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: прикрепленное (человек сорвался со скалы)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Зеркало упало со стены.">Визьлысян усема стенсьыс.</example>
+			</mframe>
+		</lexeme>
+	</frame>
+	<frame meaning="d">
+		падение сверху
+		<lexeme lang="индонезийский">jatuh</lexeme>
+		<lexeme lang="бесермянский диалект удмуртского языка">ušʼənə</lexeme>
+	</frame>
+	<frame meaning="d">
+		начальное положение: из вертикального положения: назад (опрокинуться)
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">l'asas'</lexeme>
+		<lexeme lang="самбургский говор тундрового диалекта ненецкого языка">məntas'</lexeme>
+	</frame>
+	<frame meaning="d">
+		части (колесо, кольцо)
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+	<frame meaning="d">
+		из вертикального положения: назад (опрокинуться)
+		<lexeme lang="ижемский диалект коми-зырянского языка">
+			усьны
+			<mframe>
+				<example trans="Мужчина упал на спину.">Мужык усис мушку вылас.</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">尻餅 сиримоти</lexeme>
+		<lexeme lang="японский">
+			引っくり返る хиккурикаэру
+			<mframe>
+				<example trans="лодка перевернулась;">舟が引っくり返った</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="японский">覆る куцугаэру</lexeme>
+		<lexeme lang="идиш">gebn a pral (arop)</lexeme>
+		<lexeme lang="идиш">
+			umfaln
+			<mframe>
+				<example trans="Раненый упал">der farvunderter is umgefaln</example>
+			</mframe>
+		</lexeme>
+		<lexeme lang="идиш">umgevalgert vern</lexeme>
+		<lexeme lang="идиш">faln</lexeme>
+	</frame>
+</field>

@@ -15,6 +15,7 @@ def save_xml(filename, xml_code):
 #            tax_class = [5]
 #            lang = [1]
 #            mframe = [2]
+#            maframe_translation = [3]
 
 name = "db_full_v2.txt"
 
@@ -115,8 +116,14 @@ for _field_ in fulldic:
             for el in lexedic[lexe]:
 
                 if el[2] != '':
-                    mframe = ET.SubElement (lexeme, "mframe")#, attrib = {"trans":translation_micro_frame.text)
-                    mframe.text = el[2]
+                    if el[3] != '':
+                        mframe_trans = ET.Element("trans")
+                        mframe_trans.text = el[3]
+                        mframe = ET.SubElement (lexeme, "mframe", attrib = {"trans":mframe_trans.text})#, attrib = {"trans":translation_micro_frame.text)
+                        mframe.text = el[2]
+                    else:
+                        mframe = ET.SubElement (lexeme, "mframe")#, attrib = {"trans":translation_micro_frame.text)
+                        mframe.text = el[2]
 
                # trans = ET.Element ("trans")
                # trans.text = el[5]
