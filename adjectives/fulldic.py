@@ -1,6 +1,42 @@
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+import pandas as pd
 
+
+def main():
+    df = pd.read_csv("db_full_v2.csv", sep='\t', index_col=False)
+
+    df = df.sort_values(by=['field', 'frame', 'lexeme'])
+
+    df = df.assign(usage= df.lexeme.str.startswith('-', na=False))
+
+    df = df.replace({'usage': {False:"+", True:'-'}})
+
+    df.to_csv('PANDAS_RESULT.csv', sep='\t')
+    
+    
+
+
+
+'''
+dftest = df[(df.mframe == 'Жаркий спор')]'''
+'''
+df_fieldlist = df.drop_duplicates(subset='field', keep='first', inplace=False)
+fieldlist = list(df2.field))
+
+for element in fieldlist:
+    df_1_field = df[(df.field == element)]
+    
+
+df_1_ = df.drop_duplicates(subset='field', keep='first', inplace=False)
+
+df = df.sort_values(by=['field', 'frame', 'lexeme'])
+'''
+
+
+
+#OLD
+'''
 def save_xml(filename, xml_code):
     xml_string = ET.tostring(xml_code).decode()
  
@@ -28,11 +64,12 @@ strings = all_strings.split ("\n")
 fieldic = {} #dictionary. key - field, val - LIST consisting of lists2. each list2 is a string relating to the field
 
 for string in strings:
-    param = string.split("\t")
-    if param[6] not in fieldic:
-        fieldic[param[6]] = [param]
-    else:
-        fieldic[param[6]].append(param)
+    if not string.startswith('\t'):
+        param = string.split("\t")
+        if param[6] not in fieldic:
+            fieldic[param[6]] = [param]
+        else:
+            fieldic[param[6]].append(param)
 
 fulldic = {} #key - field, val - dictionary with frames. 
 for _field_ in fieldic:
@@ -132,3 +169,8 @@ for _field_ in fulldic:
                # example.text = el[4]
 
 save_xml('adjectives_test.xml', root)
+
+'''
+
+if __name__ ==  '__main__':
+    main()
