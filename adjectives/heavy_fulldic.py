@@ -17,7 +17,7 @@ def save_xml(filename, xml_code):
 #            mframe = [2]
 #            maframe_translation = [3]
 
-name = "heavy.txt"
+name = "heavy.tsv"
 
 f = open (name, 'r', encoding = 'utf-8')
 all_strings = f.read()

@@ -20,7 +20,7 @@ def correcting_lexemes(lexeme):  #стирание минусов в начал�
     return lexeme
 
 def main():
-    df = pd.read_csv("db_full_v2(check).csv", sep='\t', index_col=False)  #создаём пандасовский датафрейм
+    df = pd.read_csv("db_full_v2.csv", sep='\t', index_col=False)  #создаём пандасовский датафрейм
 
     df = df.sort_values(by=['field', 'frame', 'lexeme', 'mframe'])  #сортируем его по всей иерархии
 
@@ -45,47 +45,43 @@ def main():
     root.text = ""
     for index, string in df.iterrows():
 
-            if str(string.field) != checkfield:
-                checkfield = str(string.field)
+            if string.field != checkfield:
+                checkfield = string.field
                 field = ET.SubElement (root, 'field')
-                field.text = str(string.field)
+                field.text = string.field
 
-            if str(string.frame) != checkframe:
-                checkframe = str(string.frame)
+            if string.frame != checkframe:
+                checkframe = string.frame
                 meaning = ET.Element ("meaning")
-                meaning.text = str(string.meaning)
+                meaning.text = string.meaning
                 tax_class = ET.Element ("tax_class")
                 tax_class.text = str(string.tax_class)
                 if tax_class.text != "" and tax_class.text != "nan":
                     frame = ET.SubElement (field, "frame", attrib = {"meaning":meaning.text, "tax_class":tax_class.text})
-                    frame.text = str(string.frame)
+                    frame.text = string.frame
                 else:
                     frame = ET.SubElement (field, "frame", attrib = {"meaning":meaning.text})
-                    frame.text = str(string.frame)
+                    frame.text = string.frame
 
-            if str(string.lexeme) != checklexeme:
-                checklexeme = str(string.lexeme)
+            if string.lexeme != checklexeme:
+                checklexeme = string.lexeme
                 lang = ET.Element("lang")
-                lang.text = str(string.lang)
+                lang.text = string.lang
                 lexeme = ET.SubElement (frame, 'lexeme', attrib = {"lang":lang.text})
-                lexeme.text = str(string.lexeme)
+                lexeme.text = string.lexeme
 
-            if str(string.mframe) != checkmframe:
-                checkmframe = str(string.mframe)
+            if string.mframe != checkmframe:
+                checkmframe = string.mframe
                 usage = ET.Element ("usage")
-                usage.text = str(string.usage)
+                usage.text = string.usage
                 mframe_trans = ET.Element ("mframe_trans")
                 mframe_trans.text = str(string.mframe_trans)
-                example = ET.Element("example")
-                example.text = str(string.example)
                 if mframe_trans.text != "" and mframe_trans.text != "nan":
                     mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "trans":mframe_trans.text})
-                    mframe.text = str(string.mframe)
+                    mframe.text = string.mframe
                 else:
                     mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text})
-                    mframe.text = str(string.mframe)
-            if str(string.comment) != "" and str(string.comment) != "nan":
-                print(str(string.comment))
+                    mframe.text = string.mframe
 
     save_xml('PANDAS_test.xml', root)
 
