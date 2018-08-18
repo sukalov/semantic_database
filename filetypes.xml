@@ -4,6 +4,7 @@
       <mapping pattern="Procfile" type="ActionScript" />
       <mapping ext="csv" type="Native" />
       <mapping pattern="pic_template" type="PLAIN_TEXT" />
+      <mapping pattern="Pipfile" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
