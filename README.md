@@ -18,11 +18,11 @@ convertation of collected lexical typological data from .tsv / .csv / .xls(x) fi
 ************************************
 <h1>OUR TERMINOLOGY:</h1>
 
-<strong>field</strong> -- semantic field (= semantic domain)</br>
-<strong>frame</strong> -- a typologically oriented lexical meaning (presumably, a member of a universal set of possible lexical meanings)</br>
-<strong>lexeme</strong> -- a lexical item in a given language</br>
-<strong>microframe</strong> -- instantiation of a frame </br>
-<strong>taxonomic class</strong> -- semantic class of a lexeme (cf. size, color, intensifier, etc.) </br>
+<strong>field</strong> — semantic field (= semantic domain)</br>
+<strong>frame</strong> — a typologically oriented lexical meaning (presumably, a member of a universal set of possible lexical meanings)</br>
+<strong>lexeme</strong> — a lexical item in a given language</br>
+<strong>microframe</strong> — instantiation of a frame </br>
+<strong>taxonomic class</strong> — semantic class of a lexeme (cf. size, color, intensifier, etc.) </br>
 
 <h2>EXAMPLE</h2>
 <strong>lexeme:</strong> sharp </br>
@@ -45,9 +45,9 @@ convertation of collected lexical typological data from .tsv / .csv / .xls(x) fi
 <p>Automatically generated tables appear as an output of the algorithms of automatic data collection.</p>
 
 <p> useful links: </br>
-http://www.dialog-21.ru/media/4553/ryzhovadaplusetal.pdf —— paper presenting the main theoretical issues </br>
-https://github.com/panteleeva48/WorkshopLexTyp —— the main GitHub storage of the project </br>
-https://github.com/vyhuholl/kr/ —— GitHub storage of the project on Finnish data collection </p>
+http://www.dialog-21.ru/media/4553/ryzhovadaplusetal.pdf — paper presenting the main theoretical issues </br>
+https://github.com/panteleeva48/WorkshopLexTyp — the main GitHub storage of the project </br>
+https://github.com/vyhuholl/kr/ — GitHub storage of the project on Finnish data collection </p>
 
 
 <p> The generated tables are in .tsv and should include the following rows and columns: </p>
