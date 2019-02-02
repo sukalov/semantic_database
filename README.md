@@ -97,7 +97,7 @@ lame	эстонский	гладкая шерсть (у собаки)	karv		фи
 lame	эстонский	гладкие волосы (хорошо причесанные)	juuksed		физ. свойства	гладкий	d			0
 
 
-<p>See an example in [a table with ajectives](semantic_database/adjectives/adjectives.csv)</p>
+<p>See an example in [a table with ajectives](adjectives/adjectives.csv)</p>
 
 ********************************************
 <h1>OUTPUT DATA FORMAT</h1>
@@ -106,13 +106,13 @@ lame	эстонский	гладкие волосы (хорошо причеса
 
 ```
 <root>
-<field>
-<frame meaning ="" tax_class="">
-<lexeme lang="">
-<mframe example="" mframe_trans="" usage=""/>
-</lexeme>
-</frame>
-</field>
+	<field>
+		<frame meaning ="" tax_class="">
+			<lexeme lang="">
+				<mframe example="" mframe_trans="" usage=""/>
+			</lexeme>
+		</frame>
+	</field>
 </root>
 ```
 
