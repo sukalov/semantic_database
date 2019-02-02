@@ -61,6 +61,7 @@ https://github.com/vyhuholl/kr/ —— GitHub storage of the project on Finnish 
 <p> In case a lexeme is not used in a given context, the corresponding field should be left blank or filled with the "-" / "0". </p>
 
 ### INPUT EXAMPLE
+taken from [questionnaire_size_frames.csv](../master/auto/questionnaire_size_frames.csv)
 
 |                                                        |         |         | thick | thin | fat | slim | broad | narrow | wide | large | spacious | 
 |--------------------------------------------------------|---------|---------|-------|------|-----|------|-------|--------|------|-------|----------| 
@@ -105,7 +106,19 @@ The code, converting a .csv table (with separators = '\t'), is [CSVtoXMLconverte
 </ul>
 
 The first row must contain the names of these columns in free order. 
-See an example in [a table with adjectives](../master/adjectives/adjectives.csv)
+### INPUT EXAMPLE
+taken from [adjectives.csv](../master/adjectives/adjectives.csv)
+
+| lexeme | lang                       | mframe                                 | mframe_trans | frame                            | tax_class | field   | meaning | example | comment | usage | 
+|--------|----------------------------|----------------------------------------|--------------|----------------------------------|-----------|---------|---------|---------|---------|-------| 
+| pajłi  | хантыйский (говор с. теги) | скользкий вопрос (неприятно обсуждать) |              | ненадежность: сфера деятельности |           | гладкий | f       |         |         | 0     | 
+| pajłi  | хантыйский (говор с. теги) | скользкий путь (жизненный)             |              | ненадежность: сфера деятельности |           | гладкий | f       |         |         | 0     | 
+| sile   | эстонский                  | скользкий вопрос (неприятно обсуждать) | küsimus      | ненадежность: сфера деятельности |           | гладкий | f       |         |         | 0     | 
+| sile   | эстонский                  | скользкий путь (жизненный)             | tee          | ненадежность: сфера деятельности |           | гладкий | f       |         |         | 0     | 
+| tasane | эстонский                  | скользкий вопрос (неприятно обсуждать) | küsimus      | ненадежность: сфера деятельности |           | гладкий | f       |         |         | 0     | 
+| tasane | эстонский                  | скользкий путь (жизненный)             | tee          | ненадежность: сфера деятельности |           | гладкий | f       |         |         | 0     | 
+| vad'av | мокшанский                 | скользкий вопрос (неприятно обсуждать) | kiz'əfks     | ненадежность: сфера деятельности |           | гладкий | f       |         |         | 0     | 
+
 
 ********************************************
 <h1>OUTPUT DATA FORMAT</h1>
