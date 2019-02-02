@@ -3,11 +3,11 @@ This is a working directory of one of the projects of the Moscow Lexical Typolog
 <p>The main objective of the project:</br>
 convertation of collected lexical typological data from .tsv / .csv / .xls(x) files into a unified .xml format</p>
 
-<p><strong>Collaborators:</strong> </br>
-Taisia Metelkina </br>
-Ekaterina Mizerova </br>
-Daria Ryzhova </br>
-Matvey Sokolovskiy </p>
+><p><strong>Collaborators:</strong> </br>
+> Taisia Metelkina </br>
+> Ekaterina Mizerova </br>
+> Daria Ryzhova </br>
+> Matvey Sokolovskiy </p>
 
 <p>Higher School of Economics </p>
 <p>February, 2019 </p>
