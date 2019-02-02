@@ -90,8 +90,7 @@ The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.
 <li>comment (can be omitted) (empty column still required)</li>
 
 <p>The first row must contain the names of these columns in free order.</br>
-
-<p>See an example in [a table with adjectives] (https://github.com/sukalov/semantic_database/blob/master/adjectives/adjectives.csv)</p>
+See an example in [a table with adjectives] (adjectives/adjectives.csv)
 
 ********************************************
 <h1>OUTPUT DATA FORMAT</h1>
