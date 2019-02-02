@@ -54,7 +54,7 @@ https://github.com/vyhuholl/kr/ —— GitHub storage of the project on Finnish 
 
 |        |         |               | lexeme | lexeme2 | lexeme3 |  ...  |
 |:------:|:-------:| :------------:| :----: | :-----: | :-----: | :---: |
-| frame1 | mframe1 | mframe_trans1 |        |         |         |       |
+| frame1 | microframe1 | translation of microframe1 |        |         |         |       |
 |  ...   |         |               |        |         |         |       |
 
 <p> "+" (or "1") indicates that a given lexeme covers a given frame / microframe (i.e., a lexeme has this meaning = is used in this context). </p>
