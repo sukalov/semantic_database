@@ -55,6 +55,12 @@ https://github.com/vyhuholl/kr/ —— GitHub storage of the project on Finnish 
 <p> first row: \t\t\t lexeme1 \t lexeme2 \t lexeme3 ... </br>
 other rows: frame \t microframe \t translation of the microframe \t + \t  \t + ... </p>
 
+|               |               |        | lexeme 1       | lexeme 2 | lexeme 3 | ... 
+| :-----------: |:-------------:| :-----:| :-------------:| :-----:  | :-------------:| :---:
+| frame 1 | mframe 1 | mframe_trans 1 |  |||
+| frame 2 | mframe 2      |  mframe_trans 2 | |||
+| ... |   |   | |||
+
 <p> "+" (or "1") indicates that a given lexeme covers a given frame / microframe (i.e., a lexeme has this meaning = is used in this context). </p>
 <p> In case a lexeme is not used in a given context, the corresponding field should be left blank or filled with the "-" / "0". </p>
 
