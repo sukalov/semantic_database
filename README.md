@@ -55,16 +55,31 @@ https://github.com/vyhuholl/kr/ —— GitHub storage of the project on Finnish 
 <p> first row: \t\t\t lexeme1 \t lexeme2 \t lexeme3 ... </br>
 other rows: frame \t microframe \t translation of the microframe \t + \t  \t + ... </p>
 
-|               |               |        | lexeme 1       | lexeme 2 | lexeme 3 | ... 
-| :-----------: |:-------------:| :-----:| :-------------:| :-----:  | :-------------:| :---:
-| frame 1 | mframe 1 | mframe_trans 1 |  |||
-| frame 2 | mframe 2      |  mframe_trans 2 | |||
-| ... |   |   | |||
+|        |         |               | lexeme | lexeme2 | lexeme3 |  ...  |
+|:------:|:-------:| :------------:| :----: | :-----: | :-----: | :---: |
+| frame1 | mframe1 | mframe_trans1 |        |         |         |       |
+|  ...   |         |               |        |         |         |       |
 
 <p> "+" (or "1") indicates that a given lexeme covers a given frame / microframe (i.e., a lexeme has this meaning = is used in this context). </p>
 <p> In case a lexeme is not used in a given context, the corresponding field should be left blank or filled with the "-" / "0". </p>
 
-<p>See an example in ... </p>
+### INPUT EXAMPLE
+
+|                                                     |           |                |       |      |     |      |       |        |      |       |          | 
+|-----------------------------------------------------|-----------|----------------|-------|------|-----|------|-------|--------|------|-------|----------| 
+|                                                     |           |                | thick | thin | fat | slim | broad | narrow | wide | large | spacious | 
+| толстые / тонкие слои                               | бумага    | sheet of paper | +     | +    |     |      |       |        |      |       |          | 
+| толстые / тонкие слои                               | слой пыли | layer          | +     | +    |     |      |       |        |      |       |          | 
+| толстые / тонкие слои                               | ткань     | textile        | +     | +    |     |      |       |        |      |       |          | 
+| толстые / тонкие слои                               | книга     | book           | +     | +    |     |      |       |        |      |       |          | 
+| толстые / тонкие стержни                            | дудка     | pipe           | +     | +    |     |      |       |        |      |       |          | 
+| однородное множество относительно крупных элементов | песок     | sand           | +     | +    |     |      |       |        |      |       |          | 
+| разреженная консистенция: газообразное вещество     | туман     | fog            | +     | +    |     |      |       |        |      |       |          | 
+| плотная консистенция: жидкость                      | дождь     | rain           |       |      |     |      |       |        |      |       |          | 
+
+
+
+
 
 <p>The following data is inserted manually when the convertation program is running:</p>
 <ul>
