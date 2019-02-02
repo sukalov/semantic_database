@@ -52,9 +52,6 @@ https://github.com/vyhuholl/kr/ —— GitHub storage of the project on Finnish 
 
 <p> The generated tables are in .tsv and should include the following rows and columns: </p>
 
-<p> first row: \t\t\t lexeme1 \t lexeme2 \t lexeme3 ... </br>
-other rows: frame \t microframe \t translation of the microframe \t + \t  \t + ... </p>
-
 |        |         |               | lexeme | lexeme2 | lexeme3 |  ...  |
 |:------:|:-------:| :------------:| :----: | :-----: | :-----: | :---: |
 | frame1 | mframe1 | mframe_trans1 |        |         |         |       |
