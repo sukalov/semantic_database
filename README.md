@@ -98,7 +98,7 @@ The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.
 
 <p>Structure of the xml-tree:</p>
 
-```
+``` xml
 <root>
 	<field>
 		<frame meaning ="" tax_class="">
@@ -112,7 +112,7 @@ The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.
 
 <h2>EXAMPLE:</h2>
 
-```
+``` xml
 <root>
     <field>
     острый
