@@ -2,52 +2,30 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import pandas as pd
 import numpy as np
-import re
 
-def save_xml(filename, xml_code):   #ВАЖНО. сейчас режим writing,
+def save_xml(filename, xml_code):   #ВАЖНО. сейчас режим writing, т.е. каждый запуск переписывает новый файл с нуля
     xml_string = ET.tostring(xml_code).decode()
-
     xml_prettyxml = minidom.parseString(xml_string).toprettyxml()
     with open(filename, 'w', encoding = "utf-8") as xml_file:
         xml_file.write(xml_prettyxml)
 
 
-def correcting_lexemes(lexeme):  #стирание минусов в начале лексем
-    lexeme = str(lexeme)
-    if lexeme.startswith('-'):
-        lexeme = lexeme[1:]
-    if lexeme == 'nan':
-        lexeme = ''
-    return lexeme
-
 def main():
-    df = pd.read_csv("db_full_v2.csv", sep='\t', index_col=False)  #создаём пандасовский датафрейм
 
-    df = df.replace(np.nan, '', regex=True)
+    FILE_IN = str(input("Название файла с таблицей (расширение файла csv. оно не указывается): "))
 
-    df = df.sort_values(by=['field', 'frame', 'lexeme', 'mframe'])  #сортируем его по всей иерархии
-
-    df = df.assign(usage= df.lexeme.str.startswith('-', na=False))   #этими тремя строчками решаем вопрос с минусами вначале лексем
-    df = df.replace({'usage': {False:"1", True:"0"}})                #(превращаем их в колонку usage с минусами и плюсами)
-    df["lexeme"]  =  df["lexeme"].apply(correcting_lexemes)    #дело это скорее специфичное для таблицы db_full_v2
-    df = df.replace({'meaning': {"п":"f", "и":'d'}})
+    df = pd.read_csv(FILE_IN + '.csv', sep='\t', index_col=False)  #создаём пандасовский датафрейм
+    df = df.replace(np.nan, '', regex=True) # во избежание ошибок вставляем пустые строки во все пустые клетки таблицы
+    df = df[df.lexeme != '']   # удаление строк с пустым значением лексемы.
+    df = df.sort_values(by=['field', 'frame', 'lexeme', 'mframe'])  #сортируем датафрейм по всей иерархии (по уровням {XML)
 
 
+    # df.to_csv('pandas_table.csv', sep='\t', index=False)
 
-    df.to_csv('PANDAS_RESULT.csv', sep='\t')      #это можно и убрать. делаем csv файл, чтобы посмотреть на его вариант таблицы
-
-    fields = []
-    for elem in df["field"]:
-        if elem not in fields:
-            fields.append(elem)
-
-    tcs = []
-    for elem in df["tax_class"]:
-        if elem not in tcs:
-            tcs.append(elem)
-
-    for el in tcs:
-        print(el)
+    # закомментированная строка создаёт дополнительный файл с таблицей после преобразований.
+    # если таблица удовлетворяет всем требованиям, это не нужно
+    # если нет, сверху можно вписывать дополнительные преобразования, и, сохраняя дополнительную pandas_table,
+    # смотреть, соответствует ли таблица условиям после них
 
 
     checkfield = "X"
@@ -98,7 +76,7 @@ def main():
                 comment = ET.Element ("comment")
                 comment.text = str(string.comment)
 
-                if mframe_trans.text != "" and mframe_trans.text != "nan":
+                if mframe_trans.text != "" and mframe_trans.text != "nan":  # неоптимальное решение проблемы того, что все аттрибуты микрофрейма кроме usage -- опциональны. (тупое перечисление всех возможных комбинаций аттрибутов)
                     if example.text != "" and example.text != "nan":
                         if comment.text != "" and comment.text != "nan":
                             mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "trans":mframe_trans.text, "example":example.text, "comment":comment.text})
@@ -131,7 +109,7 @@ def main():
 
 
 
-    save_xml('PANDAS_test.xml', root)
+    save_xml(FILE_IN + '.xml', root)
 
 if __name__ ==  '__main__':
     main()
