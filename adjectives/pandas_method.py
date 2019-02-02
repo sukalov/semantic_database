@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import pandas as pd
+import numpy as np
 import re
 
 def save_xml(filename, xml_code):   #ВАЖНО. сейчас режим writing,
@@ -22,11 +23,15 @@ def correcting_lexemes(lexeme):  #стирание минусов в начал�
 def main():
     df = pd.read_csv("db_full_v2.csv", sep='\t', index_col=False)  #создаём пандасовский датафрейм
 
+    df = df.replace(np.nan, '', regex=True)
+
     df = df.sort_values(by=['field', 'frame', 'lexeme', 'mframe'])  #сортируем его по всей иерархии
 
     df = df.assign(usage= df.lexeme.str.startswith('-', na=False))   #этими тремя строчками решаем вопрос с минусами вначале лексем
-    df = df.replace({'usage': {False:"+", True:'-'}})                #(превращаем их в колонку usage с минусами и плюсами)
-    df["lexeme"]  =  df["lexeme"].apply(correcting_lexemes)          #дело это скорее специфичное для таблицы db_full_v2
+    df = df.replace({'usage': {False:"1", True:"0"}})                #(превращаем их в колонку usage с минусами и плюсами)
+    df["lexeme"]  =  df["lexeme"].apply(correcting_lexemes)    #дело это скорее специфичное для таблицы db_full_v2
+    df = df.replace({'meaning': {"п":"f", "и":'d'}})
+
 
 
     df.to_csv('PANDAS_RESULT.csv', sep='\t')      #это можно и убрать. делаем csv файл, чтобы посмотреть на его вариант таблицы
@@ -35,6 +40,15 @@ def main():
     for elem in df["field"]:
         if elem not in fields:
             fields.append(elem)
+
+    tcs = []
+    for elem in df["tax_class"]:
+        if elem not in tcs:
+            tcs.append(elem)
+
+    for el in tcs:
+        print(el)
+
 
     checkfield = "X"
     checkframe = "X"
@@ -51,9 +65,9 @@ def main():
                 field.text = string.field
 
             if string.frame != checkframe:
-                checkframe = string.frame
+                checkframe = str(string.frame)
                 meaning = ET.Element ("meaning")
-                meaning.text = string.meaning
+                meaning.text = str(string.meaning)
                 tax_class = ET.Element ("tax_class")
                 tax_class.text = str(string.tax_class)
                 if tax_class.text != "" and tax_class.text != "nan":
@@ -66,22 +80,56 @@ def main():
             if string.lexeme != checklexeme:
                 checklexeme = string.lexeme
                 lang = ET.Element("lang")
-                lang.text = string.lang
+                lang.text = str(string.lang)
                 lexeme = ET.SubElement (frame, 'lexeme', attrib = {"lang":lang.text})
-                lexeme.text = string.lexeme
+                lexeme.text = str(string.lexeme)
 
             if string.mframe != checkmframe:
                 checkmframe = string.mframe
                 usage = ET.Element ("usage")
-                usage.text = string.usage
+                usage.text = str(string.usage)
+
                 mframe_trans = ET.Element ("mframe_trans")
                 mframe_trans.text = str(string.mframe_trans)
+
+                example = ET.Element ("example")
+                example.text = str(string.example)
+
+                comment = ET.Element ("comment")
+                comment.text = str(string.comment)
+
                 if mframe_trans.text != "" and mframe_trans.text != "nan":
-                    mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "trans":mframe_trans.text})
-                    mframe.text = string.mframe
+                    if example.text != "" and example.text != "nan":
+                        if comment.text != "" and comment.text != "nan":
+                            mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "trans":mframe_trans.text, "example":example.text, "comment":comment.text})
+                            mframe.text = str(string.mframe)
+                        else:
+                            mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "trans":mframe_trans.text, "example":example.text})
+                            mframe.text = str(string.mframe)
+                    else:
+                        if comment.text != "" and comment.text != "nan":
+                            mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "trans":mframe_trans.text, "comment":comment.text})
+                            mframe.text = str(string.mframe)
+                        else:
+                            mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "trans":mframe_trans.text})
+                            mframe.text = str(string.mframe)
                 else:
-                    mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text})
-                    mframe.text = string.mframe
+                    if example.text != "" and example.text != "nan":
+                        if comment.text != "" and comment.text != "nan":
+                            mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "example":example.text, "comment":comment.text})
+                            mframe.text = str(string.mframe)
+                        else:
+                            mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "example":example.text})
+                            mframe.text = str(string.mframe)
+                    else:
+                        if comment.text != "" and comment.text != "nan":
+                            mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text, "comment":comment.text})
+                            mframe.text = str(string.mframe)
+                        else:
+                            mframe = ET.SubElement (lexeme, 'mframe', attrib = {"usage":usage.text})
+                            mframe.text = str(string.mframe)
+
+
 
     save_xml('PANDAS_test.xml', root)
 
