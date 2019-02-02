@@ -88,8 +88,10 @@ The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.
 <li>meaning (type of meaning) (filled with d or f, meaning direct or figurative)</li>
 <li>example (with a translation, can be omitted) (empty column still required)</li>
 <li>comment (can be omitted) (empty column still required)</li>
+</ul>
 
-<p>The first row must contain the names of these columns in free order. </br> See an example in [a table with adjectives](../adjectives/adjectives.csv/)
+The first row must contain the names of these columns in free order. 
+See an example in [adjectives](../adjectives/adjectives.csv)
 
 ********************************************
 <h1>OUTPUT DATA FORMAT</h1>
@@ -98,13 +100,13 @@ The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.
 
 ``` xml
 <root>
-	<field>
-		<frame meaning ="" tax_class="">
-			<lexeme lang="">
-				<mframe example="" mframe_trans="" usage=""/>
-			</lexeme>
-		</frame>
-	</field>
+    <field>
+        <frame meaning ="" tax_class="">
+            <lexeme lang="">
+                <mframe example="" mframe_trans="" usage=""/>
+            </lexeme>
+        </frame>
+    </field>
 </root>
 ```
 
