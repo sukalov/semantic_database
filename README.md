@@ -97,7 +97,7 @@ LEXEME, USAGE, LANG, MFRAME, MFRAME_TRANS, FRAME, TAX_CLASS, FIELD, MEANING, EXA
 
 <p>Structure of the xml-tree:</p>
 
-'''
+```
 <root>
 <field>
 <frame meaning ="" tax_class="">
@@ -107,11 +107,11 @@ LEXEME, USAGE, LANG, MFRAME, MFRAME_TRANS, FRAME, TAX_CLASS, FIELD, MEANING, EXA
 </frame>
 </field>
 </root>
-'''
+```
 
 <h2>EXAMPLE:</h2>
 
-'''
+```
 <root>
 <field> острый
 <frame meaning = "d" tax_class = "физ.свойства">
@@ -132,21 +132,21 @@ LEXEME, USAGE, LANG, MFRAME, MFRAME_TRANS, FRAME, TAX_CLASS, FIELD, MEANING, EXA
 </field>
 ...
 </root>
-'''
+```
 
 **********************************************
 <h1>ELEMENTS of the tree</h1>
 <p>(in alphabetic order; names of the tags are given in CAPS)</p>
 
 <ul>
-<li>example - examples and their translations into Russian or English; attribute of the tag MFRAME</li>
-	<li>FIELD — semantic field (domain), cf. 'sharp', 'heavy', 'falling', 'oscillation', etc. </li>
-	<li>FRAME — frame </li> 
-<li>lang — language, attribute of the tag LEXEME (full name of a language or an idiom in Russian)</li>
-	<li>LEXEME — lexical item</li>
-<li>meaning — type of the meaning, attribute of the tag FRAME. Possible values: "d" (stands for "direct") and "f" (stands for "figurative")</li>
-	<li>MFRAME - microframe (see "Our terminology" above)</li>
-	<li>mframe_trans — translation of the microframe in Russian, attribute of the tag MFRAME</li>
-	<li>tax_class — taxonomic class (see "Our terminology" above), attribute of the tag FRAME</li>
-<li>usage — indicates whether the lexeme is used or not in the given context; attribute of the MFRAME </li>
+<li><strong>example</strong> - examples and their translations into Russian or English; attribute of the tag MFRAME</li>
+	<li><strong>FIELD</strong> — semantic field (domain), cf. 'sharp', 'heavy', 'falling', 'oscillation', etc. </li>
+	<li><strong>FRAME</strong> — frame </li> 
+<li><strong>lang</strong> — language, attribute of the tag LEXEME (full name of a language or an idiom in Russian)</li>
+	<li><strong>LEXEME</strong> — lexical item</li>
+<li><strong>meaning</strong> — type of the meaning, attribute of the tag FRAME. Possible values: "d" (stands for "direct") and "f" (stands for "figurative")</li>
+	<li><strong>MFRAME</strong> - microframe (see "Our terminology" above)</li>
+	<li><strong>mframe_trans</strong> — translation of the microframe in Russian, attribute of the tag MFRAME</li>
+	<li><strong>tax_class</strong> — taxonomic class (see "Our terminology" above), attribute of the tag FRAME</li>
+<li><strong>usage</strong> — indicates whether the lexeme is used or not in the given context; attribute of the MFRAME </li>
 </ul>
