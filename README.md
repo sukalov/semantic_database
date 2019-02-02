@@ -73,7 +73,7 @@ other rows: frame \t microframe \t translation of the microframe \t + \t  \t + .
 
 <p>Manually prepared tables usually contain more detailed data.</p>
 
-The code, converting a tsv table (with separators = '\t'), is [CSVtoXMLconverter.py](../CSVtoXMLconverter.py)
+The code, converting a tsv table (with separators = '\t'), is [CSVtoXMLconverter.py](../master/CSVtoXMLconverter.py)
 
 <p>Required columns are as follows:</p>
 <ul>
@@ -91,7 +91,7 @@ The code, converting a tsv table (with separators = '\t'), is [CSVtoXMLconverter
 </ul>
 
 The first row must contain the names of these columns in free order. 
-See an example in [a table with adjectives](../adjectives/adjectives.csv)
+See an example in [a table with adjectives](../master/adjectives/adjectives.csv)
 
 ********************************************
 <h1>OUTPUT DATA FORMAT</h1>
