@@ -129,11 +129,11 @@ See an example in [a table with adjectives](../master/adjectives/adjectives.csv)
 ``` xml
 <root>
     <field>
-    острый
+        острый
         <frame meaning = "d" tax_class = "физ.свойства">
-        инструмент с режущим краем
+            инструмент с режущим краем
             <lexeme lang = "русский">
-            острый
+                острый
                 <mframe mframe_trans="нож" usage ="1">
                     острый_нож
                 </mframe>
