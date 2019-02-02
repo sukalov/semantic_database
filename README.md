@@ -7,7 +7,7 @@ convertation of collected lexical typological data from .tsv / .csv / .xls(x) fi
 Taisia Metelkina </br>
 Ekaterina Mizerova </br>
 Daria Ryzhova </br>
-Matvey Sokolovsky </p>
+Matvey Sokolovskiy </p>
 
 <p>Higher School of Economics </p>
 <p>February, 2019 </p>
