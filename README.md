@@ -89,15 +89,9 @@ The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.
 <li>example (with a translation, can be omitted) (empty column still required)</li>
 <li>comment (can be omitted) (empty column still required)</li>
 
-<p>The first row must contain the names of these columns in free order:</br>
-lexeme	lang	mframe	mframe_trans	frame	tax_class	field	meaning	example	comment	usage
-spitz	немецкий	острая наблюдательность	наблюдательность	интенсивный по степени проявления (о качествах человека)	высокая степень		f			0
-gur’kstəms	мокшанский	гладкая шерсть (у собаки)	pona		физ. свойства	гладкий	d			0
-lame	эстонский	гладкая шерсть (у собаки)	karv		физ. свойства	гладкий	d			0
-lame	эстонский	гладкие волосы (хорошо причесанные)	juuksed		физ. свойства	гладкий	d			0
+<p>The first row must contain the names of these columns in free order.</br>
 
-
-<p>See an example in [a table with ajectives](adjectives/adjectives.csv)</p>
+<p>See an example in [a table with ajectives](master/adjectives/adjectives.csv)</p>
 
 ********************************************
 <h1>OUTPUT DATA FORMAT</h1>
