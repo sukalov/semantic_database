@@ -3,7 +3,7 @@ This is a working directory of one of the projects of the Moscow Lexical Typolog
 <p>The main objective of the project:</br>
 convertation of collected lexical typological data from .tsv / .csv / .xls(x) files into a unified .xml format</p>
 
-<p>Collaborators: </br>
+<p><strong>Collaborators:</strong> </br>
 Taisia Metelkina </br>
 Ekaterina Mizerova </br>
 Daria Ryzhova </br>
@@ -18,17 +18,17 @@ Matvey Sokolovsky </p>
 ************************************
 <h1>OUR TERMINOLOGY:</h1>
 
-field -- semantic field (= semantic domain)</br>
-frame -- a typologically oriented lexical meaning (presumably, a member of a universal set of possible lexical meanings)</br>
-lexeme -- a lexical item in a given language</br>
-microframe -- instantiation of a frame </br>
-taxonomic class -- semantic class of a lexeme (cf. size, color, intensifier, etc.) </br>
+<strong>field</strong> -- semantic field (= semantic domain)</br>
+<strong>frame</strong> -- a typologically oriented lexical meaning (presumably, a member of a universal set of possible lexical meanings)</br>
+<strong>lexeme</strong> -- a lexical item in a given language</br>
+<strong>microframe</strong> -- instantiation of a frame </br>
+<strong>taxonomic class</strong> -- semantic class of a lexeme (cf. size, color, intensifier, etc.) </br>
 
 <h2>EXAMPLE</h2>
-lexeme: sharp </br>
-frame: instrument with a cutting edge (other possible frames: instrument with a piercing point, object of a tapering form, etc.) </br>
-microframes: knife, scissors, saw, sabre... </br>
-taxonomic class: physical properties </br>
+<strong>lexeme:</strong> sharp </br>
+<strong>frame:</strong> instrument with a cutting edge (other possible frames: instrument with a piercing point, object of a tapering form, etc.) </br>
+<strong>microframes:</strong> knife, scissors, saw, sabre... </br>
+<strong>taxonomic class:</strong> physical properties </br>
 
 
 ************************************
@@ -36,9 +36,9 @@ taxonomic class: physical properties </br>
 
 <p>Our programs deal with tables of two main types:</p>
 <ol>
-</li> automatically generated </li> 
-</li> manually prepared </li>
-<ol>
+<li> automatically generated </li> 
+<li> manually prepared </li>
+</ol>
 
 
 <h2> Automatically generated files </h2>
