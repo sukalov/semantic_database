@@ -91,7 +91,7 @@ The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.
 
 <p>The first row must contain the names of these columns in free order.</br>
 
-<p>See an example in [a table with adjectives (https://github.com/sukalov/semantic_database/blob/master/adjectives/adjectives.csv)]</p>
+<p>See an example in [a table with adjectives] (https://github.com/sukalov/semantic_database/blob/master/adjectives/adjectives.csv)</p>
 
 ********************************************
 <h1>OUTPUT DATA FORMAT</h1>
@@ -114,24 +114,25 @@ The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.
 
 ```
 <root>
-<field> острый
-<frame meaning = "d" tax_class = "физ.свойства">
-инструмент с режущим краем
-<lexeme lang = "русский">
-острый
-<mframe mframe_trans="нож" usage ="1">
-острый_нож
-</mframe>
-<mframe mframe_frame="борода" usage="0">
-колючий_борода
-</mframe>
-...
-</lexeme>
-...
-</frame>
-...
-</field>
-...
+    <field>
+    острый
+        <frame meaning = "d" tax_class = "физ.свойства">
+        инструмент с режущим краем
+            <lexeme lang = "русский">
+            острый
+                <mframe mframe_trans="нож" usage ="1">
+                    острый_нож
+                </mframe>
+                <mframe mframe_frame="борода" usage="0">
+                    колючий_борода
+                </mframe>
+                ...
+            </lexeme>
+            ...
+        </frame>
+        ...
+    </field>
+    ...
 </root>
 ```
 
