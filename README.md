@@ -73,24 +73,31 @@ other rows: frame \t microframe \t translation of the microframe \t + \t  \t + .
 
 <p>Manually prepared tables usually contain more detailed data.</p>
 
-<p>Recommended columns are as follows:</p>
+The code, converting a tsv table (with separators = '\t'), is TSVtoXMLconverter.py
+
+<p>Required columns are as follows:</p>
 <ul>
 <li>lexeme</li>
-<li>usage type (whether the lexeme is used or not in a given context; should be filled with "1" or "0")</li>
-<li>language</li>
-<li>microframe (can be omitted)</li>
-<li>translation of the microframe (can be omitted)</li>
+<li>usage(whether the lexeme is used or not in a given context; should be filled with "1" or "0")</li>
+<li>lang (for language)</li>
+<li>mframe (for microframe) (can be omitted) (empty column still required)</li>
+<li>mframe_trans (translation of the microframe) (can be omitted) (empty column still required)</li>
 <li>frame</li>
-<li>taxonomic class</li>
-<li>semantic field</li>
-<li>type of the meaning (direct or figurative)</li>
-<li>example (with a translation, can be omitted)</li>
-<li>comment (can be omitted)</li>
+<li>tax_class (taxonomic class)</li>
+<li>field (for semantic field)</li>
+<li>meaning (type of meaning) (filled with d or f, meaning direct or figurative)</li>
+<li>example (with a translation, can be omitted) (empty column still required)</li>
+<li>comment (can be omitted) (empty column still required)</li>
 
-<p>The first row must contain the names of the columns:</br>
-LEXEME, USAGE, LANG, MFRAME, MFRAME_TRANS, FRAME, TAX_CLASS, FIELD, MEANING, EXAMPLE, COMMENT respectively.</p>
+<p>The first row must contain the names of these columns in free order:</br>
+lexeme	lang	mframe	mframe_trans	frame	tax_class	field	meaning	example	comment	usage
+spitz	немецкий	острая наблюдательность	наблюдательность	интенсивный по степени проявления (о качествах человека)	высокая степень		f			0
+gur’kstəms	мокшанский	гладкая шерсть (у собаки)	pona		физ. свойства	гладкий	d			0
+lame	эстонский	гладкая шерсть (у собаки)	karv		физ. свойства	гладкий	d			0
+lame	эстонский	гладкие волосы (хорошо причесанные)	juuksed		физ. свойства	гладкий	d			0
 
-<p>See an example in ...</p>
+
+<p>See an example in [a table with ajectives](semantic_database/adjectives/adjectives.csv)</p>
 
 ********************************************
 <h1>OUTPUT DATA FORMAT</h1>
