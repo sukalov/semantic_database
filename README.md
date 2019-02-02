@@ -44,12 +44,11 @@ Matvey Sokolovsky </p>
 <h2> Automatically generated files </h2>
 <p>Automatically generated tables appear as an output of the algorithms of automatic data collection.</p>
 
-###
 <p> useful links: </br>
-http://www.dialog-21.ru/media/4553/ryzhovadaplusetal.pdf -- paper presenting the main theoretical issues </br>
-https://github.com/panteleeva48/WorkshopLexTyp -- the main GitHub storage of the project </br>
-https://github.com/vyhuholl/kr/ -- GitHub storage of the project on Finnish data collection </p>
-###
+http://www.dialog-21.ru/media/4553/ryzhovadaplusetal.pdf —— paper presenting the main theoretical issues </br>
+https://github.com/panteleeva48/WorkshopLexTyp —— the main GitHub storage of the project </br>
+https://github.com/vyhuholl/kr/ —— GitHub storage of the project on Finnish data collection </p>
+
 
 <p> The generated tables are in .tsv and should include the following rows and columns: </p>
 
@@ -73,19 +72,19 @@ other rows: frame \t microframe \t translation of the microframe \t + \t  \t + .
 
 <p>Manually prepared tables usually contain more detailed data.</p>
 
-The code, converting a tsv table (with separators = '\t'), is [CSVtoXMLconverter.py](../master/CSVtoXMLconverter.py)
+The code, converting a .csv table (with separators = '\t'), is [CSVtoXMLconverter.py](../master/CSVtoXMLconverter.py)
 
 <p>Required columns are as follows:</p>
 <ul>
 <li>lexeme</li>
-<li>usage(whether the lexeme is used or not in a given context; should be filled with "1" or "0")</li>
+<li>usage (whether the lexeme is used or not in a given context; should be filled with "1" or "0")</li>
 <li>lang (for language)</li>
 <li>mframe (for microframe) (can be omitted) (empty column still required)</li>
 <li>mframe_trans (translation of the microframe) (can be omitted) (empty column still required)</li>
 <li>frame</li>
 <li>tax_class (taxonomic class)</li>
 <li>field (for semantic field)</li>
-<li>meaning (type of meaning) (filled with d or f, meaning direct or figurative)</li>
+<li>meaning (type of meaning) (filled with "d" or "f", meaning direct or figurative)</li>
 <li>example (with a translation, can be omitted) (empty column still required)</li>
 <li>comment (can be omitted) (empty column still required)</li>
 </ul>
